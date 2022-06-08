@@ -20,16 +20,16 @@ Cardiovascular disease (CVD) is a big reason of morbidity and mortality in the c
 
 ### Contact for Project Code and Documents
 
+
 ## How to Reach me :
 
-### Mail : vatshayan007@gmail.com 
+### 💬 Mail : vatshayan007@gmail.com 
 
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
+### 💬 WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
+### Website : https://www.cse-projects.com/
 
-Website : https://www.cse-projects.com/
-
-Computer Science Project List : https://computerscienceproject.com/
+### 1000 Computer Science Project List : https://www.computer-science-project.in/
 
 ### Youtube Video Explanation of this Project : https://youtu.be/b0z32XjpMJ4
 
